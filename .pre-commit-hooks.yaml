@@ -1,0 +1,6 @@
+- id: pyre-check
+  name: pyre-check
+  entry: pyre check
+  language: python
+  types: [python]
+  additional_dependencies: []
