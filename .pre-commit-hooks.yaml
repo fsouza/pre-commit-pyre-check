@@ -1,6 +1,7 @@
 - id: pyre-check
   name: pyre-check
-  entry: pyre check
+  entry: pyre --source-directory . check
   language: python
   types: [python]
+  pass_filenames: false
   additional_dependencies: []
