@@ -1,7 +1,7 @@
 # pyre-check pre-commit hook
 
 [pre-commit](https://pre-commit.com) hook for
-[pyre-check](https://github.com/facebook/pyre-check).
+[pyre-check](https://pyre-check.org/).
 
 ## Using pyre-check with pre-commit
 
